@@ -181,6 +181,12 @@
 /* Button label used to close a menu that displays as a popup. */
 "Menu.Close" = "关闭";
 
+/* Error message shown when no internet connection is available */
+"Network.Offline.ErrorMessage" = "似乎已断开与互联网的连接。";
+
+/* Button text for retrying network connection */
+"Network.Offline.RetryButton" = "重试";
+
 /* Text for a label that indicates the title of button from onboarding screen version 2. */
 "NewOnboarding.Button.Title.V2" = "开始使用";
 
@@ -302,7 +308,7 @@
 "Settings.blockOtherYes2" = "拦截内容跟踪器";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping. */
-"Settings.DailyUsagePing.Message" = "此数据可帮助 Mozilla 估算活跃用户数量。";
+"Settings.DailyUsagePing.Message" = "此信息可帮助 Mozilla 估算活跃用户数量。";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping. */
 "Settings.DailyUsagePing.Title" = "每日使用情况报告";
